@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Степенной метод1", "Степенной метод1\Степенной метод1.csproj", "{23E2B1D5-D517-4DC8-B1FC-5BBAB964E3E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23E2B1D5-D517-4DC8-B1FC-5BBAB964E3E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23E2B1D5-D517-4DC8-B1FC-5BBAB964E3E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23E2B1D5-D517-4DC8-B1FC-5BBAB964E3E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23E2B1D5-D517-4DC8-B1FC-5BBAB964E3E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BEDF447-6927-4F67-87F5-568B00DB12AE}
+	EndGlobalSection
+EndGlobal
